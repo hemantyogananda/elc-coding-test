@@ -1,0 +1,22 @@
+commands to run
+frontend -> npm start
+server -> node js
+
+I was able to filter the products , so please click on the checkbox
+
+
+
+Used MySQL as database to fetch product details
+Used Node js server for map api endpoints
+Used express as middleware 
+
+React Features used
+
+Redux
+Thunk
+Store
+Reducer
+Hooks
+
+Let me know if you need more details :)
+
